@@ -26,7 +26,9 @@
 
 ### 📊 Stats
 
-<!-- METRICS_IMAGE -->
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics">
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Lukas200512&theme=transparent&hide_border=true" alt="GitHub streak">
